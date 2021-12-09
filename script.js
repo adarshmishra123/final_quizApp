@@ -65,7 +65,7 @@ let currentQuestionNo=0;
 let score=0;
 // let answer=undefined;
 
-// loadquiz();
+ loadquiz();
 
 function loadquiz(){
     deselect();
